@@ -40,3 +40,6 @@ next-env.d.ts
 .prettierignore
 .eslintrc.js
 .prettierrc.json
+
+#vscode
+.vscode
